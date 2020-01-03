@@ -61,7 +61,7 @@ int main()
 	
 	char A[SIZE], B[SIZE], *t[SIZE], *isa[SIZE], *isd[SIZE];
 	
-	unsigned long int i, j, k, x=0, y=0,
+	unsigned long int i, j, k, x=0, y=0
 	
 	gets(A);
 	
